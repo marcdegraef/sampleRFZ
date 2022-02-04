@@ -54,7 +54,7 @@ This will generate a lot of output but there should not be any error messages.  
 ```fortran
 make -j
 ```
-(or nmake on Windows) and the *sampleRFZ* program should be compiled along with the *sampleRFZLib* library.
+(or nmake on Windows) and the *sampleRFZ* program should be compiled along with the *sampleRFZLib* library.  The executable can then be found in the *sampleRFZbuild/Bin* folder; place this folder in your PATH to have easy access to the program.
 
 
 
